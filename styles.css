@@ -60,7 +60,7 @@ body{
 /* Main part the showcase */
 
 .showcase{
-    background-image: url(/img/showcase.jpg);
+    background-image: url(showcase.jpg);
     height: 100vh;
     width: 100%;
     background-position: center;
